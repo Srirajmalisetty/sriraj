@@ -1,0 +1,14 @@
+Data Owner ---  Register and Login
+
+
+Data User --- Register and Login
+
+
+
+Cloud server -- Login
+
+                  --- View Data Owner and authorize
+		  --- View Data User and authorize
+
+
+
